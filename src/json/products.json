@@ -1,0 +1,99 @@
+[
+    { 
+      "id": "1",
+      "category": "Coronavirus",
+      "name": "Hong Kong to end Covid hotel quarantine policy",
+      "image": "/images/1.jpg",
+      "description": "Hong Kong has some of the world's toughest rules as it follows China's zero Covid policies.",
+      "description_long": "Hong Kong's government says that from Monday people arriving in Hong Kong will no longer have to go into mandatory hotel quarantine."
+    },
+    {
+      "id": "2",
+      "category": "Coronavirus",
+      "name": "Japan to lift restrictions on foreign tourists",
+      "image": "/images/2.jpg",
+      "description": "After two-and-a-half years, the country will freely allow in international travellers next month.",
+      "description_long": "Japan will open its doors back up to foreign tourists, after more than two years of closed borders due to the Covid pandemic. Tourists will be able to visit the country without a visa, and will no longer need to go through a travel agency, from 11 October."  
+    },
+    {
+      "id": "3",
+      "category": "Climate",
+      "name": "Investment zones an attack on nature, say wildlife groups",
+      "image": "/images/3.jpg",
+      "description": "Charities seek reassurance following the government's plans, which include planning deregulation.",
+      "description_long": "The government's new plan for investment zones across the country has caused fury among wildlife groups. The RSPB, which has a million members, has labelled it an unprecedented attack on nature that could silence the dawn chorus."
+    },
+    {
+      "id": "4",
+      "category": "Climate",
+      "name": "More than half of the world's palm trees in danger",
+      "image": "/images/4.jpg",
+      "description": "Many useful members of this iconic plant family are at risk of extinction, according to a study.",
+      "description_long": "More than a thousand species of palm tree are at risk of extinction, according to a study. Scientists used artificial intelligence to assess risks to the entire palm family, from tall trees to climbing plants."
+    },
+    {
+      "id": "5",
+      "category": "World",
+      "name": "Hurricane Ian: Cuba suffers complete blackout after storm",
+      "image": "/images/5.jpg",
+      "description": "The island's electrical system experienced a complete collapse in the wake of the deadly storm.",
+      "description_long": "Cuba is completely without power after Hurricane Ian pummelled the western end of the island, its government has announced."
+    },
+    {
+      "id": "6",
+      "category": "World",
+      "name": "Saudi Crown Prince Mohammed bin Salman named prime minister",
+      "image": "/images/6.jpg",
+      "description": "The 37-year-old son of King Salman is already seen the de facto ruler of the oil-rich Gulf state.",
+      "description_long": "Saudi Arabia's powerful Crown Prince Mohammed bin Salman has been appointed prime minister - a post that is traditionally held by the king."
+    },
+    {
+      "id": "7",
+      "category": "Asia",
+      "name": "Myanmar OnlyFans model sentenced to six years jail",
+      "image": "/images/7.jpg",
+      "description": "The model and former doctor had previously posted pictures of herself at anti-junta protests online.",
+      "description_long": "A Myanmar woman has been jailed for six years by a military court for posting pictures on adult subscription site OnlyFans, amongst other platforms."
+    },
+    {
+      "id": "8",
+      "category": "Asia",
+      "name": "Bihar: India village celebrates first government job in 75 years",
+      "image": "/images/8.jpg",
+      "description": "Rakesh Kumar is the first person from his village in Bihar state to get a government job in 75 years.",
+      "description_long": "A village in the eastern Indian state of Bihar is celebrating after a resident got a government job - its first in 75 years."
+    },  
+    {
+      "id": "9",
+      "category": "UK",
+      "name": "Bank of England steps in to calm markets",
+      "image": "/images/9.jpg",
+      "description": "The Bank says it will buy government bonds to prevent a material risk to UK financial stability.",
+      "description_long": "The Bank of England has said it will step in to calm markets after the government's tax-cutting plans sparked a fall in the pound and caused borrowing costs to surge."
+    },
+    {
+      "id": "10",
+      "category": "UK",
+      "name": "Keir Starmer: Recall parliament and abandon budget",
+      "image": "/images/10.jpg",
+      "description": "The government has completely lost control of the economy, the Labour leader says.",
+      "description_long": "Labour leader Sir Keir Starmer has called for parliament to be recalled so MPs can abandon last week's mini-budget before any more damage is done."
+    },  
+    {
+      "id": "11",
+      "category": "Tech",
+      "name": "Netflix plans to launch its own video game studio",
+      "image": "/images/11.jpg",
+      "description": "Studio in Finland is the latest and clearest example of the streaming giant moving into gaming.",
+      "description_long": "Netflix is setting up its own video game studio, as it intensifies its efforts to establish itself in the gaming industry."
+    },
+    {
+      "id": "12",
+      "category": "Tech",
+      "name": "Tim Cook: 'No good excuse' for lack of women in tech",
+      "image": "/images/12.jpg",
+      "description": "Apple chief executive tells the BBC the tech sector needs more women in order to thrive.",
+      "description_long": "Apple chief executive Tim Cook says there are still not enough women at the table at the world's tech firms - including his own."
+    }
+  ]
+  
